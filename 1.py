@@ -3,6 +3,6 @@ def fn2(x):
         return True
     else:
         return False
-print(list(filter(fn2, [2, 5, 9, 8])))
+print(list(filter(fn2, [2, 5, 9, 8, 7, 0])))
 
 
